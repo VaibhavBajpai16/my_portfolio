@@ -1,0 +1,44 @@
+[
+  {
+    "role": "Senior Software Engineer",
+    "company": "BuzzyBrains Software (I) Pvt. Ltd.",
+    "period": "May 2025 — Present",
+    "highlights": [
+      "Led full-stack development of a healthcare platform with a React Native mobile app and React web application, implementing RBAC across 5 roles (Doctor/Patient/Receptionist/Clinic/Super Admin) with JWT-based authentication and OTP verification.",
+      "Designed a RESTful API architecture with Node.js/Express and PostgreSQL featuring role-based endpoint authorization, JWT middleware, pagination, and centralized error handling, achieving 100% Postman test coverage.",
+      "Built a dynamic QR code generation system with backend hash-to-ID mapping and thermal printer integration, enabling sub-5-second patient check-ins.",
+      "Engineered a multi-channel notification pipeline (Email/SMS/WhatsApp) for OTP delivery and appointment reminders, reducing patient no-shows.",
+      "Owned end-to-end CI/CD: automated React Native APK/IPA builds, React web deployments, database migrations, and production incident resolution with a <2-hour SLA."
+    ]
+  },
+  {
+    "role": "SDE-1",
+    "company": "OneLab Ventures",
+    "period": "July 2024 — May 2025",
+    "highlights": [
+      "Developed and maintained full-stack web and mobile applications using the MERN stack and React Native.",
+      "Integrated Google AdMob into a globally launched mobile app, optimizing ad placements for revenue without hurting UX.",
+      "Designed critical APIs handling high-volume requests with secure data flow, and worked extensively with push/in-app notifications.",
+      "Deployed a fully functional website on AWS (EC2, S3, CloudFront) for scalability and reliability."
+    ]
+  },
+  {
+    "role": "Software Engineer",
+    "company": "Perla IT Soln. International Pvt. Ltd.",
+    "period": "July 2023 — July 2024",
+    "highlights": [
+      "Built the WYSAX School Management platform with React, NestJS, and PostgreSQL, supporting English, French, and Arabic via i18n.",
+      "Implemented role-based access control and multi-organization support for seamless switching between school entities.",
+      "Developed exam creation, student mark recording, and report card generation for performance tracking, using TypeORM over PostgreSQL."
+    ]
+  },
+  {
+    "role": "Software Engineer Intern",
+    "company": "Perla IT Soln. International Pvt. Ltd.",
+    "period": "Jan 2023 — June 2023",
+    "highlights": [
+      "Developed a school management system for international markets, including an exam-taking platform with authentication and result tracking.",
+      "Modernized legacy codebases and collaborated across the full development lifecycle to meet project goals."
+    ]
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "category": "Core Programming",
+    "items": ["JavaScript", "TypeScript", "Python", "SQL", "C++", "C"]
+  },
+  {
+    "category": "Frontend",
+    "items": [
+      "HTML",
+      "CSS",
+      "Tailwind CSS",
+      "Bootstrap",
+      "React.js",
+      "Next.js",
+      "React Native",
+      "Expo",
+      "Material UI / shadcn/ui",
+      "Redux / Zustand",
+      "React Query (TanStack Query)"
+    ]
+  },
+  {
+    "category": "Backend",
+    "items": [
+      "Node.js",
+      "Express.js",
+      "NestJS",
+      "FastAPI",
+      "REST APIs",
+      "GraphQL",
+      "WebSockets",
+      "Socket.io",
+      "JWT Authentication",
+      "OAuth"
+    ]
+  },
+  {
+    "category": "Databases",
+    "items": [
+      "PostgreSQL",
+      "MongoDB",
+      "TypeORM",
+      "Redis",
+      "pgvector",
+      "Pinecone / Qdrant / Weaviate"
+    ]
+  },
+  {
+    "category": "AI / LLM",
+    "items": [
+      "Prompt Engineering",
+      "OpenAI API",
+      "Gemini API",
+      "Claude API",
+      "Embeddings",
+      "RAG (Retrieval-Augmented Generation)",
+      "Function Calling / Tool Calling",
+      "Structured Outputs",
+      "Streaming Responses"
+    ]
+  },
+  {
+    "category": "AI Frameworks",
+    "items": [
+      "LangChain",
+      "LangGraph",
+      "LlamaIndex",
+      "Vercel AI SDK",
+      "OpenAI Agents SDK",
+      "CrewAI"
+    ]
+  },
+  {
+    "category": "DevOps & Cloud",
+    "items": [
+      "Git",
+      "GitHub",
+      "Docker",
+      "Docker Compose",
+      "GitHub Actions",
+      "CI/CD",
+      "AWS (EC2, S3, Lambda, IAM, RDS, ECS)",
+      "Vercel",
+      "Railway",
+      "Render",
+      "VS Code"
+    ]
+  },
+  {
+    "category": "APIs & Integration",
+    "items": ["REST API", "GraphQL", "OpenAPI (Swagger)", "Webhooks", "Server-Sent Events (SSE)"]
+  },
+  {
+    "category": "Testing",
+    "items": ["Jest", "Playwright", "Cypress", "Postman"]
+  },
+  {
+    "category": "System Design",
+    "items": [
+      "Authentication & Authorization",
+      "Caching",
+      "Rate Limiting",
+      "Queues",
+      "Microservices",
+      "Load Balancing",
+      "Scalability"
+    ]
+  },
+  {
+    "category": "AI Application Skills",
+    "items": [
+      "Chatbots",
+      "AI Agents",
+      "RAG Pipelines",
+      "Vector Search",
+      "Semantic Search",
+      "Document Processing",
+      "PDF Parsing",
+      "OCR",
+      "Speech-to-Text",
+      "Text-to-Speech",
+      "MCP (Model Context Protocol)"
+    ]
+  }
+]

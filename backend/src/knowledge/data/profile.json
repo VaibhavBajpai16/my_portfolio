@@ -1,0 +1,14 @@
+{
+  "name": "Vaibhav Bajpai",
+  "role": "Senior Software Engineer",
+  "location": "Pune, Maharashtra, India",
+  "email": "vbajpai33@gmail.com",
+  "tagline": "I build AI-powered full-stack products — LLM integrations, RAG pipelines, and intelligent automation, backed by production-grade React, Node.js, and cloud infrastructure.",
+  "bio": [
+    "I'm an AI Full Stack Software Engineer with experience building scalable web and mobile applications using Python, TypeScript, React, Next.js, React Native, Node.js, NestJS, PostgreSQL, and AWS. I specialize in developing end-to-end solutions with secure REST APIs, role-based access control, authentication, and cloud-native architectures. I also build AI-powered applications by integrating LLMs (Gemini/OpenAI), prompt engineering, AI APIs, RAG, and intelligent automation to deliver production-ready solutions. Passionate about clean architecture and modern AI technologies, I enjoy building scalable, high-performance applications from concept to deployment."
+  ],
+  "socials": {
+    "github": "",
+    "linkedin": "https://www.linkedin.com/in/vaibhav-bajpai-b691081aa/"
+  }
+}
