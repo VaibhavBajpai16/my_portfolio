@@ -15,7 +15,7 @@ export function Skills() {
       <div className="mx-auto max-w-7xl px-6 py-24">
         <SectionHeading eyebrow="Skills" title="Tools I work with" number="02" />
 
-        <div className="grid items-start gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
           {skills.map((group, i) => (
             <SkillCard key={group.category} group={group} index={i} />
           ))}

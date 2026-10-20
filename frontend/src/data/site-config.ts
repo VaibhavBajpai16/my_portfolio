@@ -147,7 +147,10 @@ export const skills: SkillGroup[] = [
       "Socket.io",
       "JWT Authentication",
       "OAuth",
-      "Event-Driven Systems (Kafka, RabbitMQ)"
+      "Event-Driven Systems (Kafka, RabbitMQ)",
+      "OpenAPI (Swagger)",
+      "Webhooks",
+      "Server-Sent Events (SSE)"
     ]
   },
   {
@@ -181,17 +184,7 @@ export const skills: SkillGroup[] = [
     ]
   },
   {
-    "category": "APIs & Integration",
-    "items": [
-      "REST API",
-      "GraphQL",
-      "OpenAPI (Swagger)",
-      "Webhooks",
-      "Server-Sent Events (SSE)"
-    ]
-  },
-  {
-    "category": "System Design",
+    "category": "System Design & Testing",
     "items": [
       "Authentication & Authorization",
       "Caching",
@@ -199,12 +192,7 @@ export const skills: SkillGroup[] = [
       "Queues",
       "Microservices",
       "Load Balancing",
-      "Scalability"
-    ]
-  },
-  {
-    "category": "Testing",
-    "items": [
+      "Scalability",
       "Jest",
       "Playwright",
       "Cypress",

@@ -86,7 +86,10 @@
       "Socket.io",
       "JWT Authentication",
       "OAuth",
-      "Event-Driven Systems (Kafka, RabbitMQ)"
+      "Event-Driven Systems (Kafka, RabbitMQ)",
+      "OpenAPI (Swagger)",
+      "Webhooks",
+      "Server-Sent Events (SSE)"
     ]
   },
   {
@@ -120,17 +123,7 @@
     ]
   },
   {
-    "category": "APIs & Integration",
-    "items": [
-      "REST API",
-      "GraphQL",
-      "OpenAPI (Swagger)",
-      "Webhooks",
-      "Server-Sent Events (SSE)"
-    ]
-  },
-  {
-    "category": "System Design",
+    "category": "System Design & Testing",
     "items": [
       "Authentication & Authorization",
       "Caching",
@@ -138,12 +131,7 @@
       "Queues",
       "Microservices",
       "Load Balancing",
-      "Scalability"
-    ]
-  },
-  {
-    "category": "Testing",
-    "items": [
+      "Scalability",
       "Jest",
       "Playwright",
       "Cypress",
