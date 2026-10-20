@@ -136,6 +136,7 @@ export function Hero() {
             <Magnetic>
               <motion.a
                 href={siteConfig.resumeUrl}
+                download="Vaibhav_Bajpai_Resume.docx"
                 whileHover={{ scale: 1.03 }}
                 whileTap={{ scale: 0.97 }}
                 className="rounded-full border border-border bg-background/50 px-5 py-2.5 text-sm font-medium text-foreground backdrop-blur-sm transition-colors hover:border-accent hover:text-accent"

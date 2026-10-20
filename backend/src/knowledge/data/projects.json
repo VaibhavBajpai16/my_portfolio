@@ -1,5 +1,42 @@
 [
   {
+    "title": "Revilico — GenAI and Full-Stack",
+    "description": "A cloud-native AI drug discovery platform with LLM-based analysis layers over petabyte-scale genomic datasets, built with React.js, Node.js, Python, and PostgreSQL.",
+    "tags": [
+      "React",
+      "Node.js",
+      "Python",
+      "PostgreSQL",
+      "RAG",
+      "RAGAS",
+      "Kafka",
+      "Kubernetes",
+      "AWS Batch"
+    ],
+    "featured": true,
+    "highlights": [
+      "Engineered the cloud-native AI drug discovery platform with LLM-based analysis layers, achieving 50% faster processing of petabyte-scale genomic datasets.",
+      "Scaled event-driven microservices (Kafka, Kubernetes, AWS Batch) to handle 4,500+ QPS with integrated RAG pipelines for contextual retrieval over molecular and genomic research data.",
+      "Implemented retrieval evaluation using RAGAS metrics (faithfulness, answer relevancy, context precision), reducing hallucination rates by 40% and improving factual grounding across 500K+ research documents."
+    ]
+  },
+  {
+    "title": "LendingWise — GenAI and Full-Stack",
+    "description": "AI-powered document verification agents for a multi-tenant lending platform, replacing manual loan file reviews.",
+    "tags": [
+      "LangChain",
+      "LangGraph",
+      "Python",
+      "AWS SQS"
+    ],
+    "featured": true,
+    "highlights": [
+      "Designed and deployed AI-powered document verification agents using LangChain and LangGraph, reducing document processing time by 70% across a multi-tenant lending platform.",
+      "Built automated cross-verification tools with custom LangChain tools to pull and validate borrower data against uploaded loan files, eliminating 85% of manual compliance checks.",
+      "Scaled the backend using AWS SQS to process 150K+ documents monthly with zero data loss."
+    ]
+  },
+  {
     "title": "AI Interview & Assessment Platform",
     "description": "An end-to-end AI-powered interview and assessment platform where autonomous multi-agent AI conducts HR, technical, coding, and system-design interviews — from resume analysis to hiring recommendations.",
     "tags": [
@@ -55,7 +92,14 @@
   {
     "title": "ProShop — E-Commerce Web App",
     "description": "A full-stack electronic shopping platform built with React, Node.js, Express, and MongoDB, designed for seamless browsing and purchasing across devices.",
-    "tags": ["React", "Node.js", "Express", "MongoDB", "REST APIs", "Authentication"],
+    "tags": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "REST APIs",
+      "Authentication"
+    ],
     "highlights": [
       "Implemented secure user authentication and session handling to protect customer accounts and purchase data.",
       "Optimized MongoDB queries and database performance to keep browsing and checkout fast under load.",
@@ -67,7 +111,15 @@
   {
     "title": "Daily Expense Tracker",
     "description": "A full-stack expense tracking web app built on a LAMP stack, giving users an organized, visual way to log and understand their spending.",
-    "tags": ["HTML", "CSS", "JavaScript", "PHP", "MySQL", "AJAX", "Chart.js"],
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP",
+      "MySQL",
+      "AJAX",
+      "Chart.js"
+    ],
     "highlights": [
       "Implemented full CRUD functionality so users can add, edit, and remove expense entries.",
       "Used AJAX for dynamic data manipulation, updating expense data without full page reloads.",

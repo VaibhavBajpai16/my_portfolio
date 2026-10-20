@@ -1,7 +1,61 @@
 [
   {
+    "category": "AI / LLM",
+    "items": [
+      "Prompt Engineering",
+      "OpenAI API",
+      "Gemini API",
+      "Claude API",
+      "Embeddings",
+      "RAG (Retrieval-Augmented Generation)",
+      "Function Calling / Tool Calling",
+      "Structured Outputs",
+      "Streaming Responses",
+      "LLM Evaluation (RAGAS, LangSmith)",
+      "LLM Fine-Tuning (LoRA/QLoRA)",
+      "Retrieval Optimization",
+      "AWS Bedrock"
+    ]
+  },
+  {
+    "category": "AI Frameworks",
+    "items": [
+      "LangChain",
+      "LangGraph",
+      "LlamaIndex",
+      "Vercel AI SDK",
+      "OpenAI Agents SDK",
+      "CrewAI",
+      "RAGAS",
+      "LangSmith"
+    ]
+  },
+  {
+    "category": "AI Application Skills",
+    "items": [
+      "Chatbots",
+      "AI Agents",
+      "RAG Pipelines",
+      "Vector Search",
+      "Semantic Search",
+      "Document Processing",
+      "PDF Parsing",
+      "OCR",
+      "Speech-to-Text",
+      "Text-to-Speech",
+      "MCP (Model Context Protocol)"
+    ]
+  },
+  {
     "category": "Core Programming",
-    "items": ["JavaScript", "TypeScript", "Python", "SQL", "C++", "C"]
+    "items": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "SQL",
+      "C++",
+      "C"
+    ]
   },
   {
     "category": "Frontend",
@@ -31,7 +85,8 @@
       "WebSockets",
       "Socket.io",
       "JWT Authentication",
-      "OAuth"
+      "OAuth",
+      "Event-Driven Systems (Kafka, RabbitMQ)"
     ]
   },
   {
@@ -42,32 +97,8 @@
       "TypeORM",
       "Redis",
       "pgvector",
-      "Pinecone / Qdrant / Weaviate"
-    ]
-  },
-  {
-    "category": "AI / LLM",
-    "items": [
-      "Prompt Engineering",
-      "OpenAI API",
-      "Gemini API",
-      "Claude API",
-      "Embeddings",
-      "RAG (Retrieval-Augmented Generation)",
-      "Function Calling / Tool Calling",
-      "Structured Outputs",
-      "Streaming Responses"
-    ]
-  },
-  {
-    "category": "AI Frameworks",
-    "items": [
-      "LangChain",
-      "LangGraph",
-      "LlamaIndex",
-      "Vercel AI SDK",
-      "OpenAI Agents SDK",
-      "CrewAI"
+      "Pinecone / Qdrant / Weaviate",
+      "FAISS"
     ]
   },
   {
@@ -77,9 +108,11 @@
       "GitHub",
       "Docker",
       "Docker Compose",
+      "Kubernetes",
       "GitHub Actions",
       "CI/CD",
-      "AWS (EC2, S3, Lambda, IAM, RDS, ECS)",
+      "AWS (Bedrock, SageMaker, Lambda, ECS/Fargate, Batch, SQS, S3, ElastiCache, EC2, IAM, RDS)",
+      "Serverless Framework",
       "Vercel",
       "Railway",
       "Render",
@@ -88,11 +121,13 @@
   },
   {
     "category": "APIs & Integration",
-    "items": ["REST API", "GraphQL", "OpenAPI (Swagger)", "Webhooks", "Server-Sent Events (SSE)"]
-  },
-  {
-    "category": "Testing",
-    "items": ["Jest", "Playwright", "Cypress", "Postman"]
+    "items": [
+      "REST API",
+      "GraphQL",
+      "OpenAPI (Swagger)",
+      "Webhooks",
+      "Server-Sent Events (SSE)"
+    ]
   },
   {
     "category": "System Design",
@@ -107,19 +142,12 @@
     ]
   },
   {
-    "category": "AI Application Skills",
+    "category": "Testing",
     "items": [
-      "Chatbots",
-      "AI Agents",
-      "RAG Pipelines",
-      "Vector Search",
-      "Semantic Search",
-      "Document Processing",
-      "PDF Parsing",
-      "OCR",
-      "Speech-to-Text",
-      "Text-to-Speech",
-      "MCP (Model Context Protocol)"
+      "Jest",
+      "Playwright",
+      "Cypress",
+      "Postman"
     ]
   }
 ]
